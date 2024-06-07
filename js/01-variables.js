@@ -1,37 +1,38 @@
-//tipos de variable, las variables tiene que ser descriptivas
+tipos de variable, las variables tiene que ser descriptivas
 
-// let numero = 42;
-// console.log(typeof numero);
-//
-// let nombre = "hola mundo";
-// console.log(typeof nombre);
-//
-// let verdadero = true
-// console.log(typeof verdadero);
-//
-// let reasignacion;
-// reasignacion = "Francisco";
-// console.log(typeof reasignacion);
-//
-// let nula = null;
-// console.log(typeof nula);
+let numero = 42;
+console.log(typeof numero);
+
+let nombre = "hola mundo";
+console.log(typeof nombre);
+
+let verdadero = true
+console.log(typeof verdadero);
+
+let reasignacion;
+reasignacion = "Francisco";
+console.log(typeof reasignacion);
+
+let nula = null;
+console.log(typeof nula);
 
 ///////////////////////////////////////////////////////////////////
-// let miVariable = "Mi primera variable"
-// console.log(miVariable);
+
+let miVariable = "Mi primera variable"
+console.log(miVariable);
 
 ///////////////////////////////////////////////////////////////////
 
 //01.- OPERADORES DE ASIGNACION
 
-// let a;
-// let b = 2;
-//
-// console.log(a);
-// console.log(b);
-//
-// a = "hola"; // EL OPERADOR DE ASIGNACION ES EL DE LA DERECHA QUE ASIGNA A LA VARIABLE QUE ESTA A LA IZ.
-// console.log(a);
+let a;
+let b = 2;
+
+console.log(a);
+console.log(b);
+
+a = "hola"; // EL OPERADOR DE ASIGNACION ES EL DE LA DERECHA QUE ASIGNA A LA VARIABLE QUE ESTA A LA IZ.
+console.log(a);
 
 //02.- ASIGNAR EL VALOR DE UNA VARIABLE A OTRA VARIABLE
 
